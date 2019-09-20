@@ -70,6 +70,17 @@ footer {
     text-decoration: none;
 }
 
+.fa-button {
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+}
+
+.fa-button:hover{
+    color: lightgray;
+    text-decoration: none;
+}
+
 /* Moblie/Shrunk Viewports*/
 
 @media (max-width: 900px) {
